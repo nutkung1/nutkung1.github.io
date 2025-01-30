@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nutty"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Third year engineer at KMUTT"
+  location         : "Bangmod"
+  employer         : "KMUTT"
   uri              : # URL
   email            : "none@example.org" 
 
