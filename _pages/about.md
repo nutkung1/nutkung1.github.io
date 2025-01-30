@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I'm Suchanat, a passionate Data Engineer & AI Enthusiast with a strong foundation in big data processing, cloud computing, and AI-driven applications. Currently pursuing Computer Engineering at KMUTT, I specialize in building scalable data pipelines, real-time analytics, and AI-powered solutions that drive efficiency and innovation.
+
+With hands-on experience in Apache Spark, Kafka, Airflow, MongoDB Atlas, AWS, and machine learning, I’ve worked on diverse projects ranging from carbon footprint tracking in financial transactions to real-time traffic monitoring and intelligent search systems. I thrive on solving complex problems, optimizing data workflows, and leveraging AI for impactful business insights.
+
+Currently, I’m a Data Engineer at Catalyzt Tech, where I develop real-time data streaming solutions and scalable infrastructure for data-driven applications. I'm also exploring LLMs, vector search, and CrewAI for intelligent automation.
+
+📩 Let’s connect! Whether you're looking for collaboration, discussing emerging technologies, or just exchanging ideas, feel free to reach out.
 
 A data-driven personal website
 ======
